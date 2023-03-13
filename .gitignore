@@ -1,0 +1,64 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+Assets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated files
+.vs/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.userprefs
+/*.pidb
+/*.booproj
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+
+# Apple files
+*.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Android
+*.aar
+*.apk
+*.ap_
+*.aab
+
+# JetBrains Rider
+.idea/
+*.csproj
+*.sln
+*.resharper
+*.DotSettings
+*.userprefs
+
+# Other
+*.log
+*.txt
+*.cfg
+*.meta
+
+# Unity preserves these files, but we prefer not to commit them to the repo
+*.asset
+*.meta
+
+# Build folder
+/Build/
